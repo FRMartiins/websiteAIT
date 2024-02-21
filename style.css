@@ -22,11 +22,11 @@ body{
 }
 
 .navigation a {
-    color: rgb(243, 119, 3);
+    color: rgb(0, 0, 0);
 }
 
 a{
     text-decoration: none;
-    background-color: rgb(127, 150, 144);
+    background-color: rgb(250, 206, 125);
     padding: 5px;
 }
